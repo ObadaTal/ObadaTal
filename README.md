@@ -21,8 +21,8 @@ I'm a third-year Artificial Intelligence student at Umm Al-Qura University, inte
 
 ## Featured Projects
 
-### Course Recommendation System
-A recommendation system that suggests suitable courses based on user interests or learning needs.
+### Saudi Course Recommendation System
+An AI-based mobile/web application that helps students and employees choose the most suitable courses based on the Saudi labor market and their personal preferences.
 
 ### Stock Recommendation System
 A project focused on analyzing stock-related data and generating recommendations using programming and data analysis concepts.
